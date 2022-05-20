@@ -7,7 +7,7 @@ I used to be an Audio Engineer but I am now reborn into Software Development. I'
 
 ## Projects 
 
-### 🥋 ClassDojo  [Website](www.staging.classdojo.ninja) [Repo](https://github.com/class-dojo) [Video](https://youtu.be/bhY3u7Vx_6A)
+### ClassDojo  [Website](www.staging.classdojo.ninja) [Repo](https://github.com/class-dojo) [Video](https://youtu.be/bhY3u7Vx_6A)
 ClassDojo empowers teachers in virtual classrooms with a selection of tools to gauge student interest and emotional response during lectures. The app leverages Computer Vision to detect emotions of students and extracts information such as mood and attention, that are all displayed in a set of interactive charts, all conveniently fitted into a comprehensive dashboard.
 
 ### BEETBOX  [Website](https://beetbox.netlify.app/) [Repo](https://github.com/JackBlakeston/BEETBOX) [Video](https://www.youtube.com/watch?v=e780VrMg_1k&ab_channel=JackBlakeston)
