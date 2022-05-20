@@ -1,4 +1,4 @@
-## About me 👋
+## About me
 
 I used to be an Audio Engineer but I am now reborn into Software Development. I'm looking to learn and grow in this field, and eventually combine it with Audio Programming, although I still have a long way to go before I get there. I enjoy building things that can be touched, felt and played around with. Things with soul that make you feel something.
 
