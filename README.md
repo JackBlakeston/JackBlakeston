@@ -12,3 +12,6 @@ ClassDojo empowers teachers in virtual classrooms with a selection of tools to g
 
 ### BEETBOX  [Website](https://beetbox.netlify.app/) [Repo](https://github.com/JackBlakeston/BEETBOX) [Video](https://www.youtube.com/watch?v=e780VrMg_1k&ab_channel=JackBlakeston)
 Beetbox is a drum sequencer that you can run in your browser. With hundreds of samples available, all the user needs to do is log in, load some sounds and start making beets.
+
+### florenciaromero [Website](https://www.florenciaromero.com/) [Repo](https://github.com/JackBlakeston/florencia-romero-page)
+This is the website for a translator and audio describer. It is fully localized in both English and Spanish.
